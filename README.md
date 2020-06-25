@@ -18,4 +18,4 @@ git clone https://github.com/Matheusgfgl/ecoleta-app.git
 npm install, tanto na pasta backend quanto na frontend.
 
 ### - Inicializando a aplicação
- yarn dev para a pasta backend e npm start na pasta backend
+ yarn dev para a pasta backend e npm start para o frontend
